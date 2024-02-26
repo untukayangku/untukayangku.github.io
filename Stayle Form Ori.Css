@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #00000033;
+  padding-bottom: 6rem;
+}
+.jumbotron h1 {
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  font-size: 6rem;
+  color: black;
+}
+.jumbotron p {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  color: black;
+}
+#Project {
+  background-color: #00000033;
+}
+section {
+  padding-top: 5rem;
+}
+
+#Contact {
+  background-color: #00000033;
+}
+.gallery-img {
+  width: 100%;
+}
+#register {
+  padding-bottom: 10%;
+  background-image: url(img/Logo\ Soon\ Mori.jpg);
+  width: 100%;
+  color: white;
+}
